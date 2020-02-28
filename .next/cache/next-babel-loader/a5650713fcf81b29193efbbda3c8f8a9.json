@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default function Index() {}","map":{"version":3,"sources":["/Users/ericfitzsimons/Documents/Spire/hello-next/pages/index.js"],"names":["Index"],"mappings":"AAAA,eAAe,SAASA,KAAT,GAAiB,CAE/B","sourcesContent":["export default function Index() {\n  \n}"]},"metadata":{},"sourceType":"module"}
